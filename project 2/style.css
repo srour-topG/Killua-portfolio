@@ -436,10 +436,6 @@ span{
 .services{
     background: var(--bg-color);
     color: black;
-    max-width: 1000px;
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .services h2{
